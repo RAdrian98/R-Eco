@@ -1,18 +1,45 @@
+
+
+#logophoto{
+	margin:auto;
+	width:99%;
+	height:30%;
+	border:3px solid white;
+	background-color:green;
+}
+
+#navbar{
+	margin:auto;
+	width:99%;
+	height:5%;
+	border-radius: 3px solid white;
+	background-color:blue
+}
+
+#meniu{
+	float:left;
+	margin-left:2px;
+	width:19%;
+	height:63.3%;
+	border:3px solid white;
+	background-color:yellow;
+}
+
+#continut{
+	float:right;
+	margin-right: 2px;
+	width:79%;
+	height:63.3%;
+	border:3px solid white;
+	background-color: red;
+}
+
 #container{
 	margin:auto;
 	width:60%;
 	height:100%;
-	border: 3px solid red;
-	padding-left: 10%;
-	background-color:#800000;
-}
-
-#logophoto{
-	margin:auto;
-	width:100%;
-	height:auto;
-	border:3px solid white;
-	background-color:green;
+	border: 3px solid white;
+	background-color:white;
 }
 
 body{
