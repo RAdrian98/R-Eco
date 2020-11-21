@@ -7,6 +7,14 @@
 	background-color:#800000;
 }
 
+#logophoto{
+	margin:auto;
+	width:100%;
+	height:auto;
+	border:3px solid white;
+	background-color:green;
+}
+
 body{
 	background-image: linear-gradient(#99ebff,#007a99);
 }
