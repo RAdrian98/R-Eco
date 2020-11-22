@@ -46,15 +46,14 @@
 	margin:auto;
 	float:right;
 	padding-top:22%;
-}
-
+	}
 .registerbut{
 	background-color:blue;
 	margin:auto;
 	width:90px;
 	height:30px;
-}
-
+	}
+	
 #loginbut{
 		margin:auto;
 		float:right;
