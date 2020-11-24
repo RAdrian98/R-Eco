@@ -1,7 +1,0 @@
-<html>
-	<body>
-		<div id=container>
-			<p>text</p>
-		</div>
-	</body>
-</html>
