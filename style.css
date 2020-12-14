@@ -160,6 +160,15 @@
 	color:white;
 }
 
+#textcontinut{
+	color:white;
+	font-size:18px;
+	font-family:sans-serif;
+	text-align:justify;
+	padding-left:3px;
+	padding-right:3px;
+}
+
 body{
 	background-image: linear-gradient(#00FFFF,#003F3F);
 	min-width:1000px;
